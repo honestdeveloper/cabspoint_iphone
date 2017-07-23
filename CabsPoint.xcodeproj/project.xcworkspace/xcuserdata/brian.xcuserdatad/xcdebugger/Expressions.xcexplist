@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MyProfileViewController viewDidLoad]:MyProfileViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "CONFIG_INFO.phone">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FindAddressViewController listLocation:]:FindAddressViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "activityIndicatorMask.frame.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RegistrationViewController loginViewFetchedUserInfo:user:]:RegistrationViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "CONFIG_INFO.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

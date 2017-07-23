@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[RegistrationViewController finishedWithAuth:error:]:RegistrationViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "CONFIG_INFO.email">
+            </PersistentString>
+            <PersistentString
+               value = "[GPPSignIn sharedInstance].userEmail">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__53-[RegistrationViewController finishedWithAuth:error:]_block_invoke:RegistrationViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "person.userEmail">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
